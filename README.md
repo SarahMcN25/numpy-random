@@ -26,8 +26,6 @@ You can view the notebook in dynamic form by clicking the following image/badge:
 ### 1. Read numpy random old and new material.
 ### 2. Pick 5 packages that interest me.
 ### 3. Develop each one and create plots and descriptions etc.
-### 4. KEEP REFERENCES ALONG THE WAY!
-### 5. Only commit per function/important change. 
 
 
 
