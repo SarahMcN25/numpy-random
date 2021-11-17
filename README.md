@@ -21,11 +21,7 @@ You can view the notebook in dynamic form by clicking the following image/badge:
 ## References:
 
 ***
-## TO DO
-## For Myself - Delete later
-### 1. Read numpy random old and new material.
-### 2. Pick 5 packages that interest me.
-### 3. Develop each one and create plots and descriptions etc.
+
 
 
 
