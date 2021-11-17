@@ -38,8 +38,6 @@ This notebook explains the following aspects of the numpy random package:
 
 ## Quick steps
 
-<br>
-
 ### NB viewer
 
 This is an online tool created by the Jupyter community for rendering notebooks in static form. 
@@ -51,7 +49,7 @@ You can view this notebook on nbviewer by clicking on the following badge:
 
 ### Binder
 
-Mybinder is an online service where you share a notebook in a dynamic and interactive form.
+Mybinder is an online service where you can share a notebook in a dynamic and interactive form.
 
 You can view this notebook on mybinder by clicking on the following badge:
 
@@ -65,7 +63,7 @@ You can view this notebook on mybinder by clicking on the following badge:
 
 ## References:
 
-All references and code used in this notebook have been sourced from the following webpages in Nov 2021:
+All references and code used in this notebook have been sourced  in Nov 2021 from the following webpages:
 
 - https://numpy.org/doc/stable/reference/random/index.html
 - https://numpy.org/doc/stable/reference/random/index.html#random-quick-start
