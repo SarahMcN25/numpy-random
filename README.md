@@ -122,7 +122,7 @@ When generating random numbers there is always a start point. This inital value 
 
 <br>
 
-## **Conslusion**
+## **Conclusion**
 This readme contains a quick overview of what this juputer notebook does. It explains the use and purpose of the numpy random package, it describes what simple random data, permutation functions and distribution functions are and it outlines what the seed in and why it is important in generating pseudorandom numbers. This notebook is only the tip of the iceberg with regard to the numpy random package. It has many functions which are hugely beneficial for data analysts to gather, investigate and interpret data in order to provide detailed analysis as a result. 
 
 <br>
