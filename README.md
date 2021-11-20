@@ -1,4 +1,7 @@
 # **NumPy Random Package**
+### Author: Sarah McNelis - G00398343
+***
+<br>
 
 This is an investigation into the [numpy random package](https://numpy.org/doc/stable/reference/random/index.html) using a jupyter notebook. 
 
@@ -120,7 +123,7 @@ When generating random numbers there is always a start point. This inital value 
 <br>
 
 ## **Conslusion**
-This notebook is only the tip of the iceberg with regard to the numpy random package. It has many functions which are hugely beneficial for data analysts to gather, investigate and interpret data in order to provide detailed analysis as a result. 
+This readme contains a quick overview of what this juputer notebook does. It explains the use and purpose of the numpy random package, it describes what simple random data, permutation functions and distribution functions are and it outlines what the seed in and why it is important in generating pseudorandom numbers. This notebook is only the tip of the iceberg with regard to the numpy random package. It has many functions which are hugely beneficial for data analysts to gather, investigate and interpret data in order to provide detailed analysis as a result. 
 
 <br>
 
@@ -183,6 +186,7 @@ All references and code used in this notebook have been sourced in Oct/Nov 2021 
 - https://towardsdatascience.com/tools-for-sharing-jupyter-notebooks-online-28c8d4ff821c
 - https://mybinder.readthedocs.io/en/latest/introduction.html
 - https://www.getsmarter.com/blog/career-advice/data-analysis-important-business/#:~:text=Data%20analysis%20is%20important%20in,provides%20context%20for%20the%20data.
+- https://en.wikipedia.org/wiki/Simple_random_sample
 
 <br>
 
