@@ -70,7 +70,7 @@ Numpy is used for working with arrays. The numpy random package allows users to 
 - used for visualising the random data generated using numpy on plots.
 
 #### *default_rng*
-- imported from numpy.random as recommened by quick start guide as the package was updated to V1.21. This new format is recommended as is more complatible with numpy. 
+- imported from numpy.random as recommended by the quick start guide as the package was updated to V1.21. This new format is recommended as it is more compatible with numpy. 
 
 <br>
 
@@ -101,11 +101,11 @@ This is used for random ordering of an array. It consists of three methods:
 ### 4. Distribution Functions
 Thses functions predict the probability of a set of values. There are 36 in total, however, this notebook only describes the following five in detail:
 
-- *Random Normal:* creates random samples for normal distribution (where data near mean is more likely to appear)
+- *Random Normal:* creates random samples for normal distribution, where data near the mean is more likely to appear
 
-- *Random Uniform:* generates samples from a uniform distribution where all outcomes are equally likely. 
+- *Random Uniform:* generates samples from a uniform distribution, where all outcomes are equally likely. 
 
-- *Random Power:* produces samples using power law distribution where one variable acts as a power of another. 
+- *Random Power:* produces samples using power law distribution, where one variable acts as a power of another. 
 
 - *Random Geometric:* returns samples using geometric distribution with two possible outcomes; success or failure. 
 
@@ -123,7 +123,7 @@ When generating random numbers there is always a start point. This inital value 
 <br>
 
 ## **Conclusion**
-This readme contains a quick overview of what this juputer notebook does. It explains the use and purpose of the numpy random package, it describes what simple random data, permutation functions and distribution functions are and it outlines what the seed in and why it is important in generating pseudorandom numbers. This notebook is only the tip of the iceberg with regard to the numpy random package. It has many functions which are hugely beneficial for data analysts to gather, investigate and interpret data in order to provide detailed analysis as a result. 
+This readme contains a quick overview of what this juputer notebook does. It explains the use and purpose of the numpy random package, it describes simple random data, permutation functions and distribution functions and it outlines the seed funciton and its importance in generating pseudorandom numbers. It has many functions which are hugely beneficial for data analysts to gather, investigate and interpret data in order to provide detailed analysis as a result. 
 
 <br>
 
