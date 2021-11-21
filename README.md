@@ -36,7 +36,7 @@ You can view this notebook on nbviewer by clicking on the following badge:
 
 ### Binder
 
-[Mybinder](https://mybinder.org/) is an online service where you can share a notebook in a dynamic and interactive form.
+[Mybinder](https://mybinder.org/) is an online service where you can share a notebook in a dynamic and interactive way.
 
 You can view this notebook on mybinder by clicking on the following badge:
 
@@ -52,16 +52,16 @@ You can view this notebook on mybinder by clicking on the following badge:
 
 This notebook explains the following aspects of the numpy random package:
 
-1. The overall purpose of the package
-2. The use of simple random data
-3. The use of permutation functions
-4. The use and purpose of five distribution functions
-5. The use of seeds in generating pseudorandom numbers
+1. The overall purpose of the package.
+2. The use of simple random data.
+3. The use of permutation functions.
+4. The use and purpose of five distribution functions.
+5. The use of seeds in generating pseudorandom numbers.s
 
 <br>
 
 ### 1. Overview of NumPy Random
-Numpy is used for working with arrays. The numpy random package allows users to generate random data. In order to explain and visualise how numpy random works the following packages are imported:
+Numpy is used when working with arrays. The numpy random package allows users to generate random data. In order to explain and visualise how numpy random works the following packages are imported:
 
 #### *numpy*
 - used for working with numerical arrays.
@@ -70,12 +70,12 @@ Numpy is used for working with arrays. The numpy random package allows users to 
 - used for visualising the random data generated using numpy on plots.
 
 #### *default_rng*
-- imported from numpy.random as recommended by the quick start guide as the package was updated to V1.21. This new format is recommended as it is more compatible with numpy. 
+- imported from numpy.random as recommended by the quick start guide as the package was updated to version 1.21. This new format is recommended as it is more compatible with numpy. 
 
 <br>
 
 ### 2. Simple Random Data
-The four different methods of generating simple random data are described here.
+The four different methods of generating simple random data are:
 
 - *Random Integers:* returns random integers in an array.
 
@@ -99,17 +99,17 @@ This is used for random ordering of an array. It consists of three methods:
 <br>
 
 ### 4. Distribution Functions
-Thses functions predict the probability of a set of values. There are 36 in total, however, this notebook only describes the following five in detail:
+These functions predict the probability of a set of values. There are 36 in total, however, this notebook only describes the following five in detail:
 
-- *Random Normal:* creates random samples for normal distribution, where data near the mean is more likely to appear
+- *Random Normal:* creates random samples for normal distribution - where data near the mean is more likely to appear.
 
-- *Random Uniform:* generates samples from a uniform distribution, where all outcomes are equally likely. 
+- *Random Uniform:* generates samples from a uniform distribution - where all outcomes are equally likely. 
 
-- *Random Power:* produces samples using power law distribution, where one variable acts as a power of another. 
+- *Random Power:* produces samples using power law distribution - where one variable acts as a power of another. 
 
-- *Random Geometric:* returns samples using geometric distribution with two possible outcomes; success or failure. 
+- *Random Geometric:* returns samples using geometric distribution with two possible outcomes - success or failure. 
 
-- *Random Gumbel:* simulates the extreme value either very small or very large. 
+- *Random Gumbel:* simulates the extreme value - either very small or very large. 
 
 <br>
 
@@ -123,7 +123,7 @@ When generating random numbers there is always a start point. This inital value 
 <br>
 
 ## **Conclusion**
-This readme contains a quick overview of what this juputer notebook does. It explains the use and purpose of the numpy random package, it describes simple random data, permutation functions and distribution functions and it outlines the seed funciton and its importance in generating pseudorandom numbers. It has many functions which are hugely beneficial for data analysts to gather, investigate and interpret data in order to provide detailed analysis as a result. 
+This readme contains a quick overview of what this juputer notebook does. It explains the use and purpose of the numpy random package, it describes simple random data, permutation functions and distribution functions and it outlines the seed funciton and its importance in generating pseudorandom numbers. The numpy random package has many functions which are hugely beneficial for data analysts to gather, investigate and interpret data in order to provide detailed analysis as a result. 
 
 <br>
 
@@ -187,6 +187,8 @@ All references and code used in this notebook have been sourced in Oct/Nov 2021 
 - https://mybinder.readthedocs.io/en/latest/introduction.html
 - https://www.getsmarter.com/blog/career-advice/data-analysis-important-business/#:~:text=Data%20analysis%20is%20important%20in,provides%20context%20for%20the%20data.
 - https://en.wikipedia.org/wiki/Simple_random_sample
+- https://en.wikipedia.org/wiki/Permuted_congruential_generator
+- https://matplotlib.org/stable/api/style_api.html?highlight=plot%20style#module-matplotlib.style
 
 <br>
 
